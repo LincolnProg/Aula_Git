@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "Kick";
+    src: url(/Kick.otf);
+}
+
+
+body{
+display: flex; 
+align-items: center;
+justify-content: center;
+height: 100vh;
+background-image: url(/Assets/Img/images.jfif); 
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+
+.conteudo{
+box-shadow: 0 0 .3rem ;
+color: #e41f26; 
+background-color: #e41f26; 
+text-align: flex-end;
+justify-content: end;
+}
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+html{
+font-size: 62.5%;
+}
+
+#nome{
+font-family: "Kick"; 
+font-size: 5em;
+color: #fcef30; 
+text-align: center;
+} 
+
+#Sobrenome {
+font-family: "Kick"; 
+font-size: 5em;
+color: rgb(255, 251, 251); 
+text-align: center;
+
+}
