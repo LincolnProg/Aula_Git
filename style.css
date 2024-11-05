@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Kick";
-    src: url(/Kick.otf);
+    src: url(./Kick.otf);
 }
 
 
@@ -9,7 +9,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 height: 100vh;
-background-image: url(/Assets/Img/images.jfif); 
+background-image: url(./Assets/Img/images.jfif); 
 background-repeat: no-repeat;
 background-size: cover; 
 }
@@ -19,8 +19,9 @@ background-size: cover;
 box-shadow: 0 0 .3rem ;
 color: #e41f26; 
 background-color: #e41f26; 
-text-align: flex-end;
-justify-content: end;
+text-align:center;
+justify-content: end; 
+border-radius: 8%;
 }
 
 
@@ -28,7 +29,7 @@ justify-content: end;
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; 
 } 
 
 html{
