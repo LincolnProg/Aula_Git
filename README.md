@@ -36,4 +36,14 @@ O intutito deste repositorio é aprender as melhores prataicas de versionamento 
 |git config --global user.name | configura o nome de usuario | 
 |git config --global user.email | configura email do usuario |
 
+# Blog Kick Bottowsky
+
+<div align="center">
+    <img src="./Assets/Img/iPhone-13-Mini-lincolnprog.github.io.png" width=200>
+    <img src="./Assets/Img/Macbook-Air-lincolnprog.github.io.png" width= 600>
+<div>
+
+Site Desenvolvido em tecnologia HTML e CSS com responsividade presente em tablets e smartphone.
+
+[Acesse aqui](https://lincolnprog.github.io/Aula_Git/)
 
